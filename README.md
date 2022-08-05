@@ -1,2 +1,8 @@
 # voidbox
-A script that deploys my voidbox, including my software and ratpoison.
+
+   # Installation
+git clone https://github.com/mikm0k/voidbox
+
+cd voidbox
+
+run ./install.sh
