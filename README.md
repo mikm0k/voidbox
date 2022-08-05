@@ -1,8 +1,10 @@
 # voidbox
 
+   
+   
    # Installation
-git clone https://github.com/mikm0k/voidbox
+1. git clone https://github.com/mikm0k/voidbox
 
-cd voidbox
+2. cd voidbox
 
-run ./install.sh
+3. run ./install.sh
